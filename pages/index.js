@@ -4,7 +4,7 @@ export default () => (
     <div>
         <Nav />
         <div className="hero">
-            <h1 className="title">Next.js + Tailwind CSS</h1>
+            <h1 className="title">Eats Unplanned</h1>
         </div>
     </div>
 )
