@@ -1,0 +1,29 @@
+{
+  "name": "eatsunplanned",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bulma": "^0.8.1",
+    "next": "^9.3.1",
+    "node-sass": "^4.13.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snretuerma/EatsUnplanned.git"
+  },
+  "author": "Shannon Francis Retuerma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snretuerma/EatsUnplanned/issues"
+  },
+  "homepage": "https://github.com/snretuerma/EatsUnplanned#readme"
+}
