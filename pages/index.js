@@ -1,7 +1,10 @@
-function HomePage() {
-    return <div>
-        Homepage
-    </div>
-}
+import Nav from '../components/nav'
 
-export default HomePage
+export default () => (
+    <div>
+        <Nav />
+        <div className="hero">
+            <h1 className="title">Next.js + Tailwind CSS</h1>
+        </div>
+    </div>
+)
